@@ -1,0 +1,172 @@
+/*******************************************/
+/**                                       **/
+/** Change color: #F25086 =>  #b00f14     **/
+/**                                       **/
+/*******************************************/
+.header-top-left ul li a:hover{
+  color:#b00f14;
+}
+.icon-border.facebook:hover::before {
+  box-shadow:inset 0 0 0 2px #b00f14;
+}
+.icon-border.twitter:hover::before {
+  box-shadow:inset 0 0 0 2px #b00f14;
+}
+.icon-border.instagram:hover::before {
+  box-shadow: inset 0 0 0 2px #b00f14;
+}
+.icon-border.pinterest:hover::before {
+  box-shadow: inset 0 0 0 2px #b00f14;
+}
+.navbar-brand {
+  color: #b00f14 !important;
+  font-weight: 500;
+}
+.banner-left p{
+  background: rgba(176, 16, 20, 0.9);
+}
+.keywords input[type="submit"]{
+  background:#b00f14;
+}
+.wmuSliderPagination a.wmuActive {
+  background:#b00f14;
+}
+.hvr-sweep-to-top:before {
+  background:#b00f14;
+}
+.footer-contact input[type="submit"]	{
+  background:#b00f14;
+}
+.m1 a{
+  color:#b00f14;
+}
+.services-grid-left span{
+  color:#b00f14;
+}
+.services-grid:hover .services-grid-right h4 a{
+  color:#b00f14;
+}
+.services-grid:hover .services-grid-right h4 a:after {
+  background:#b00f14;
+}
+.hvr-bounce-to-bottom1:before {
+  background: #b00f14;
+}
+.grid_5 h3, .grid_5 h2, .grid_5 h1, .grid_5 h4, .grid_5 h5, h3.hdg, h3.bars {
+  color:#b00f14;
+}
+.contact-grid input[type="submit"]{
+  background: #b00f14;
+}
+.contact-grid1-left1 a{
+  color:#b00f14;
+}
+.single-left2 ul.com li a:hover{
+  color:#b00f14;
+}
+.single-left2-sub ul li{
+  color:#b00f14;
+}
+.single-left4 h4{
+  color: #b00f14;
+}
+.admin a {
+  color:#b00f14;
+}
+.reply a:hover{
+  color:#b00f14;
+}
+.write-reply input[type="submit"]:hover{
+  background:#b00f14;
+}
+.related-post-right h4 a{
+  color:#b00f14;
+}
+
+
+/*******************************************/
+/**                                       **/
+/** Change color: #00B6FF =>  #000     **/
+/**                                       **/
+/*******************************************/
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+  background-color:#b00f14;
+}
+
+.hvr-bounce-to-bottom:before {
+  background:#505050;
+}
+
+.banner-left h3{
+  background:rgba(0, 0, 0, 0.9);
+}
+
+.banner-right h3{
+  color: #000000;
+}
+
+.keywords input[type="submit"]:hover{
+  background:#000000;
+}
+
+.about h3,.testimonials h3,.events h3,.services h3,.special-services h3,.gallery h3,h3.title,.contact h3{
+  color:#000000;
+}
+
+.footer-contact input[type="submit"]:hover{
+  background:#000000;
+}
+
+.footer-copy p a{
+  color:#000000;
+}
+
+.services-top-breadcrumbs-right ul li a{
+  color:#000000;
+}
+
+.services-grid:hover .more a,.more a:hover{
+  color:#000000;
+}
+
+.m2 a{
+  background: #000000;
+}
+
+.special-services-grid:hover .special-services-grid1:after {
+  background: #000000;
+}
+
+.special-services-grid:hover h4 a{
+  color:#000000;
+}
+.contact-grid input[type="submit"]:hover{
+  background:#000000;
+}
+.contact-grid1-left1 span{
+  color:#000000;
+}
+.single-left2-sub ul li a:hover{
+  background: #000000;
+  border: 1px solid #000000;
+}
+.comments-grid-right h3 a{
+  color:#000000;
+}
+.write-reply input[type="submit"]{
+  background:#000000;
+}
+
+.carouselGallery-item-meta {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.carouselGallery-item-meta a {
+  color: #fff;
+}
+
+.pagination>.active>a,
+.pagination>.active>a:hover {
+  background-color: #b00f14;
+  border-color: #b00f14;
+}

